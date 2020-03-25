@@ -1,0 +1,6 @@
+name: NickHider
+version: @version@
+main: ru.spliterash.nickhider.NickHider
+commands:
+  hide:
+    description: "Main hide command"
